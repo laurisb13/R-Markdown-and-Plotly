@@ -13,7 +13,7 @@ The response is the length of odontoblasts (cells responsible for tooth growth) 
 
 - Source: C. I. Bliss (1952) The Statistics of Bioassay. Academic Press.
 
-- Reference: Crampton, E. W. (1947) The growth of the odontoblast of the incisor teeth as a criterion of vitamin C intake of the guinea pig. The Journal of Nutrition 33(5): 491-504. http://jn.nutrition.org/content/33/5/491.full.pdf
+- Reference: Crampton, E. W. (1947) The growth of the odontoblast of the incisor teeth as a criterion of vitamin C intake of the guinea pig. The Journal of Nutrition 33(5): 491-504.
 
 ## Plot
 
