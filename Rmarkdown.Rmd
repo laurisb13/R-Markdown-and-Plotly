@@ -31,6 +31,6 @@ p <- ggplot(data = ToothGrowth, aes(x = dose, y = len)) +
 ggplotly(p)
 ```
 
-## I hope you enjoyed it!
+## I hope you enjoyed it
 
 
