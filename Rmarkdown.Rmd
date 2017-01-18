@@ -1,6 +1,6 @@
 ---
 title: "Data Products Project Week 3"
-author: "Laura Sánchez Burgos"
+author: "Laura Sanchez Burgos"
 date: "Wednesday, January 18, 2017"
 output:
   ioslides_presentation:
@@ -20,11 +20,6 @@ The response is the length of odontoblasts (cells responsible for tooth growth) 
 ```{r, echo=FALSE, message=FALSE}
 options(warn=-1)
 library(plotly)
-library(ggplot2)
-library(colorspace)
-library(graphics)
-library(htmlwidgets)
-library(leaflet)
 p <- ggplot(data = ToothGrowth, aes(x = dose, y = len)) +
   geom_point(aes(x = dose, y = len)) +  
   geom_smooth(aes(colour = supp, fill = supp)) + facet_wrap(~ supp)
